@@ -6,6 +6,7 @@ https://adventofcode.com/
 `yarn build`
 
 Run a specific day
+
 `yarn build && node dist/day-one-a.js`
 
 Run the unit tests
