@@ -1,0 +1,9 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wtfleming/advent-of-code-2019.git",
+  "author": "Will Fleming <wfleming77@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
