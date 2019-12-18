@@ -5,7 +5,7 @@ const wireTwoInput = "L995,D598,R577,U346,L797,D375,R621,D709,R781,U55,R965,U327
 
 
 
-export function buildSet(input) {
+function buildSet(input) {
   const set1 = new Set();
 
   let x = 0;
